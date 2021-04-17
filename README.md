@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/desktop-preview.jpg)
+![](.images/127.0.0.1_5500_index.html.png)
 
 
 ### Links
