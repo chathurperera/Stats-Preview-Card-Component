@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](.C:\Users\Lenovo\Desktop\Projects\Stats Preview Card Component Main\design\desktop-preview.jpg)
+![](.design\desktop-preview.jpg)
 
 
 ### Links
